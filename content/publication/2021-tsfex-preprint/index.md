@@ -7,7 +7,7 @@ authors:
 - Sonal Santosh Baberwal
 - admin
 - Robert Foskin
-date: "2019-04-07T00:00:00Z"
+date: "2021-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: —With the outbreak of COVID-19 pandemic, a dire need to effectively identify the individuals who may have come in close-contact to others who have been infected with COVID-19 has risen. This process of identifying individuals, also termed as ‘Contact tracing’, has significant implications for the containment and control of the spread of this virus. However, manual tracing has proven to be ineffective calling for automated contact tracing approaches. As such, this research presents an automated machine learning system for identifying individuals who may have come in contact with others infected with COVID-19 using sensor data transmitted through handheld devices. This paper describes the different approaches followed in arriving at an optimal solution model that effectually predicts whether a person has been in close proximity to an infected individual using a gradient boosting algorithm and time series feature extraction.
+abstract: With the outbreak of the COVID-19 pandemic, a dire need to effectively identify the individuals who may have come in close contact with others who have been infected with COVID-19 has risen. This process of identifying individuals, also termed as ‘Contact tracing’, has significant implications for the containment and control of the spread of this virus. However, manual tracing has proven to be ineffective calling for automated contact tracing approaches. As such, this research presents an automated machine-learning system for identifying individuals who may have come in contact with others infected with COVID-19 using sensor data transmitted through handheld devices. This paper describes the different approaches followed in arriving at an optimal solution model that effectually predicts whether a person has been in close proximity to an infected individual using a gradient boosting algorithm and time series feature extraction.
 
 # Summary. An optional shortened abstract.
 summary: This paper describes the different approaches followed in arriving at an optimal solution model that effectually predicts whether a person has been in close proximity to an infected individual using a gradient boosting algorithm and time series feature extraction.
@@ -30,6 +30,7 @@ summary: This paper describes the different approaches followed in arriving at a
 tags:
 - Machine Learning
 - COVID-19
+- Health
 featured: false
 
 links:
