@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Department of Mathematics and Statistics, Ignatius Ajuru University of Education"
+publication: "An unpublished thesis submitted to the epartment of Mathematics and Statistics, Ignatius Ajuru University of Education, Nigeria for the degree of Bachelor of Science (Education) in Mathematics and Statistics"
 publication_short: ""
 
 abstract: 
