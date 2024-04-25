@@ -8,8 +8,9 @@ authors:
 - Mary Oluwabunmi Ogunmodimu
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+
 date: "2019-07-05T00:00:00Z"
 doi: "https://doi.org/10.5539/ijsp.v8n4p85"
 
