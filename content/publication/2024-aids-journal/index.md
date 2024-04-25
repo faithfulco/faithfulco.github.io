@@ -8,8 +8,8 @@ authors:
 - admin
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2024-04-11T00:00:00Z"
 doi: "https://doi.org/10.5281/zenodo.10936948"
 
