@@ -31,7 +31,9 @@ abstract: Recent advancement in medicine has brought about the use of Antiretrov
 summary: This paper presents a novel mathematical model for HIV/AIDS transmission in Africa, using Cape Verde as a case study, by incorporating the ART treatment, resulting in U=U. The qualitative properties of the model, including the boundedness and positivity of its solution were obtained. 
 
 tags:
-- Source Themes
+- Mathematics
+- Health
+- HIV/AIDS
 featured: false
 
 # links:
