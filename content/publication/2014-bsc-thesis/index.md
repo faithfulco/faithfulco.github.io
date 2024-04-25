@@ -26,7 +26,9 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 tags:
-- Source Themes
+- Mathematics
+- Education
+- Special Needs
 featured: false
 
 # links:
