@@ -8,8 +8,8 @@ authors:
 - Festus Abiodun Oguntolu 
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2022-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.imu.2022.101124"
 
