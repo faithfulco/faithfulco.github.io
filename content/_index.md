@@ -106,7 +106,7 @@ sections:
         - title: Data Scientist (Remote)
           company: Brighter Futures Initiative CIC, Scotland, UK.
           company_url: 'https://brighterfuturesinitiative.co.uk/about-us/'
-          company_logo: brighter
+          company_logo: 
           location: Dublin, Ireland.
           date_start: '2021-01-01'
           date_end: '2021-09-31'
