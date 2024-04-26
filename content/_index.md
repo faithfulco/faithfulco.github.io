@@ -261,6 +261,17 @@ sections:
               * Cultivated a vibrant, collaborative network by facilitating regular social and professional development opportunities for scholars.
               * Organised a series of enriching events and activities that helped the scholars make the most of their time in the UK, including cultural excursions, academic workshops, and career coaching sessions.
               * Collaborated closely with other regional coordinators and university representatives to ensure a seamless and rewarding experience for the scholars.
+        - title: Program Representative and President
+          company: Department of Mathematics, Pan African University, Kenya.
+          company_url: 'https://pau-au.africa/institutes/pausti/'
+          company_logo: pau
+          location: Nairobi, Kenya.
+          date_start: '2018-04-01'
+          date_end: '2019-11-01'
+          description: |2-
+              Responsibilities include:
+              * Represented the interests and perspectives of Mathematics PhD and MSc scholars at high-level meetings with the African Union Commission and PAUSTI directorate.
+              * Created an effective collaborative environment that fostered meaningful connections and knowledge-sharing between scholars, industry partners, and academic institutions.
     design:
       columns: '2'
   - block: accomplishments
