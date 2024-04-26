@@ -103,7 +103,7 @@ sections:
               * Submitted a patent application on Bitcoin payment transaction detection and fraud prevention technology, currently pending approval.
               * Managed project tasks and workflows effectively within an agile framework using Jira.
               * Facilitated transparent communication and knowledge sharing across the team through Confluence.
-        - title: Machine Learning and Blockchain Researcher
+        - title: Data Scientist (Remote)
           company: Foundry Machine Learning and Artificial Intelligence R&D Team, Mastercard, Ireland. 
           company_url: 'https://www.mastercard.ie/en-ie.html'
           company_logo: mastercard
