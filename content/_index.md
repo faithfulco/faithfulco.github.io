@@ -90,20 +90,48 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teacher
-          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
-          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
-          company_logo: ml-labs
+        - title: Associate Lecturer in Artificial Intelligence and Blockchain Technology
+          company: National College of Ireland (NCI), Ireland.
+          company_url: 'https://www.ncirl.ie/About/Faculties/School-of-Computing'
+          company_logo: nci
           location: Dublin, Ireland
-          date_start: '2021-09-01'
+          date_start: '2022-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
-              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
-              * Publishing in reputable journals to share insights with the broader research community.
-              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
-              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+              * Lecturing the Blockchain Application Development module.
+              * Supervising MSc and BSc student’s thesis in Artificial Intelligence and Blockchain Technology.
+              * Developing comprehensive assessments that effectively evaluate students' understanding of complex AI and Blockchain concepts.
+              * Grading assignments and exams promptly, providing detailed and constructive feedback to help students identify areas for improvement.
+              * Collaborating with the department to continuously update course content and materials to align with the latest advancements in AI, ML and Blockchain.
+              * Organising and facilitating interactive workshops and tutorials to reinforce key concepts and encourage hands-on learning.
+    design:
+      columns: '1'
+  - block: experience
+    content:
+      title: Leadership & Community Development Service
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Mentor
+          company: Knowledge and Skills Forum. 
+          company_url: 'https://www.linkedin.com/company/knowledge-forum/'
+          company_logo: 
+          location: Online
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Providing mentorship to young scientists on academic and professional excellence.
+              * Developing and delivering hands-on training programs in data science and artificial intelligence.
+              * Offering guidance and resources on successfully obtaining scholarships and research grants.
+              * Facilitating career development sessions including leadership and communication skills.
     design:
       columns: '2'
   - block: accomplishments
