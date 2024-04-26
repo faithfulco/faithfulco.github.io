@@ -431,32 +431,31 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.credly.com/badges/2aa41887-469d-4a4c-b838-da330e909a84/twitter?t=s07ydq
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-07-25'
+          description: 'CipherTrace’s CTCE training provides hands-on instruction in blockchain and cryptocurrency tracing. Participants develop and hone digital investigation techniques as they learn a risk-based approach to tracing the source of blockchain funds and de-anonymizing cryptocurrency transactions with cryptocurrency forensic tools. Participants learn and demonstrate how to best leverage tools and resources to reduce investigation time, improve information yield, and build an effective investigation.'
+          icon: 
+          organization: CipherTrace, Mastercard
+          organization_url: 
+          title: Cryptocurrency Tracing Certified Examiner (CTCE)
+          url: ''
+        - certificate_url: https://coursera.org/share/85e4f8e50b9f276649cae9f344fc5e55
+          date_end: ''
+          date_start: '2023-11-01'
+          description: 
+          organization: Vanderbilt University through Coursera.
+          organization_url: https://www.coursera.org
+          title: Prompt Engineering for ChatGPT
+          url: 
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/CUWTLGAVL3EB
+          date_end: ''
+          date_start: '2023-10-01'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Coursera Project Network
+          organization_url: 
+          title: 'Smart Contracts with Solidity: Create an Ethereum contract.
           url: ''
 
         - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
