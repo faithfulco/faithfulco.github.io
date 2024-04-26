@@ -195,6 +195,19 @@ sections:
               * Grading assignments and exams promptly, providing detailed and constructive feedback to help students identify areas for improvement.
               * Collaborating with the department to continuously update course content and materials to align with the latest advancements in AI, ML and Blockchain.
               * Organising and facilitating interactive workshops and tutorials to reinforce key concepts and encourage hands-on learning.
+        - title: Teaching Assistant in Computer Science
+          company: University College Dublin, Ireland.
+          company_url: 'https://www.ucd.ie/cs/'
+          company_logo: ucd
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Teaching assistant for several modules including, Advanced Machined Learning, Databases, Data Analytics, Operating Systems, Ethical Hacking, and Malware Analysis.
+              * Guiding students with hands-on implementation of complex concepts. 
+              * Grading students' performance accurately and fairly.
+              * Delivering constructive and insightful feedback to support their learning and academic growth.
     design:
       columns: '1'
   - block: experience
