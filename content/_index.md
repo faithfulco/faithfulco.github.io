@@ -248,13 +248,13 @@ sections:
               * Developing and delivering hands-on training programs in data science and artificial intelligence.
               * Offering guidance and resources on successfully obtaining scholarships and research grants.
               * Facilitating career development sessions including leadership and communication skills.
-        - title: Mentor
-          company: Knowledge and Skills Forum. 
-          company_url: 'https://www.linkedin.com/company/knowledge-forum/'
-          company_logo: 
-          location: Online
-          date_start: '2023-01-01'
-          date_end: ''
+        - title: West Scotland Regional Network Coordinator
+          company: Commonwealth Scholarship Commission in the UK. 
+          company_url: 'https://www.acu.ac.uk/'
+          company_logo: csc-uk
+          location: Scotland, UK.
+          date_start: '2019-11-01'
+          date_end: '2020-09-01'
           description: |2-
               Responsibilities include:
               * Providing mentorship to young scientists on academic and professional excellence.
