@@ -2,10 +2,15 @@
 title: My favourite Mathematics Quotes
 date: '2024-03-14'
 summary: Inspiring quotes by mathematicians.
----
-
 authors:
   - admin
+tags:
+  - Mathematics
+
+categories:
+  - Blog
+  - Inspiration
+---
 
 🤗 My Brain is Open ~ Paul Erdos. 
 
