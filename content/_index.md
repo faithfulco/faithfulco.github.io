@@ -76,6 +76,58 @@ sections:
               * Publishing in reputable journals to share insights with the broader research community.
               * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
               * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: Visiting Research Scholar in Artificial Intelligence
+          company: Cognitive Modelling Track, AWARE AI Lab, Rochester Institute of Technology (RIT), NY, USA.
+          company_url: 'https://www.rit.edu/nrtai/research'
+          company_logo: aware-ai
+          location: Rochester, New York, USA.
+          date_start: '2023-08-01'
+          date_end: '2023-11-31'
+          description: |2-
+              Responsibilities include:
+              * Proposed a research project on leveraging Large Language Models (LLMs) to identify psychological vulnerabilities cybercriminals exploit in phishing emails.
+              * Awarded the [SFI-NSF Student Mobility Research Grant](https://www.sfi.ie/funding/funding-calls/us-ireland-supplemental/) worth €4,065.50 to support the research.
+              * Collaborated with a multidisciplinary team of experts across fields such as artificial intelligence, cybersecurity, human-computer interaction, and psychology.
+              * Co-authored a research paper submitted for publication in a reputable peer-reviewed journal.
+              * Presented my research findings on ransomware detection using machine learning to the lab.
+        - title: Machine Learning and Blockchain Researcher
+          company: Foundry Machine Learning and Artificial Intelligence R&D Team, Mastercard, Ireland.
+          company_url: 'https://www.mastercard.ie/en-ie.html'
+          company_logo: mastercard
+          location: Dublin, Ireland. 
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
+              Responsibilities include:
+              * Developed a novel AI system for detecting fraudulent Bitcoin transactions at scale.
+              * Submitted a patent application on Bitcoin payment transaction detection and fraud prevention technology, currently pending approval.
+              * Managed project tasks and workflows effectively within an agile framework using Jira.
+              * Facilitated transparent communication and knowledge sharing across the team through Confluence.
+        - title: Data Scientist (Remote)
+          company: Brighter Futures Initiative CIC, Scotland, UK.
+          company_url: 'https://brighterfuturesinitiative.co.uk/about-us/'
+          company_logo: brighter
+          location: Scotland, UK. 
+          date_start: '2021-01-01'
+          date_end: '2021-09-31'
+          description: |2-
+              Responsibilities include:
+              * Developed and delivered online lessons on AI, Data Science and Mathematics to multi-cultural and multi-ethnic groups from Africa and other minority Ethnic Communities in Scotland following the COVID-19 pandemic.
+              * Conducted exploratory data analysis to identify patterns, trends, and insights, generating descriptive statistics and visualizations using Excel, Python (Pandas, Matplotlib), R, Tableau, and Power BI.
+              * Built predictive models using machine learning techniques in Python and R to forecast future trends.
+              * Summarized findings in clear, actionable reports and presented insights to management and executives.
+        - title: Business Developer (Remote)
+          company: Saipal UK LTD, Edinburgh, Scotland, UK.
+          company_url: ''
+          company_logo: brighter
+          location: Scotland, UK. 
+          date_start: '2020-09-01'
+          date_end: '2020-12-31'
+          description: |2-
+              Responsibilities include:
+              * Analysed data and provided insights using analytical tools such as Python, SQL, R, Tableau and SPSS. 
+              * Developed business solutions for clients using advanced analytics. 
+              * Tested developed software for functional and non-functional performance.
     design:
       columns: '1'
   - block: experience
