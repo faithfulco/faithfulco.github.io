@@ -208,6 +208,19 @@ sections:
               * Guiding students with hands-on implementation of complex concepts. 
               * Grading students' performance accurately and fairly.
               * Delivering constructive and insightful feedback to support their learning and academic growth.
+        - title: Mathematics and Further Mathematics Teacher
+          company: National Youth Service Corps (NYSC), Abraka Grammar School, Delta State, Nigeria and Cornerstone International Secondary School, Rivers State, Nigeria.
+          company_url: ''
+          company_logo: 
+          location: Nigeria
+          date_start: '2015-05-01'
+          date_end: '2017-04-01'
+          description: |2-
+              Responsibilities include:
+              * Delivered planned lessons with student-centred pedagogy in line with curriculum objectives.
+              * Developed excellent verbal and written communication skills as a teacher, interacting with colleagues, young students and their parents.
+              * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
+              * Organised learning resources and materials in line with curriculum objectives.
     design:
       columns: '1'
   - block: experience
