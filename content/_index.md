@@ -431,14 +431,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+        - certificate_url: https://www.credly.com/badges/2aa41887-469d-4a4c-b838-da330e909a84/twitter?t=s07ydq
           date_end: ""
-          date_start: "2021-04-28"
+          date_start: "2023-07-28"
           description: ""
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: What is Data Science?
-          url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+          organization: CipherTrace, Mastercard.
+          organization_url: 
+          title: Cryptocurrency Tracing Certified Examiner (CTCE)
+          url: 
         - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
           date_end: ""
           date_start: "2021-04-28"
