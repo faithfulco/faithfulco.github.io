@@ -431,6 +431,35 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.credly.com/badges/2aa41887-469d-4a4c-b838-da330e909a84/twitter?t=s07ydq
+          date_end: ''
+          date_start: '2023-07-25'
+          description: ''
+          icon: 
+          organization: CipherTrace, Mastercard
+          organization_url: https://www.mastercard.ie/en-ie/vision/who-we-are/innovation-tech-hub.html
+          title: Cryptocurrency Tracing Certified Examiner (CTCE)
+          url: ''
+    
+        - certificate_url: https://coursera.org/share/85e4f8e50b9f276649cae9f344fc5e55
+          date_end: ''
+          date_start: '2023-11-01'
+          description: 
+          organization: Vanderbilt University through Coursera.
+          organization_url: https://www.coursera.org
+          title: Prompt Engineering for ChatGPT
+          url:
+    
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/CUWTLGAVL3EB
+          date_end: ''
+          date_start: '2023-10-01'
+          description: ''
+          icon: coursera
+          organization: Coursera Project Network
+          organization_url: 
+          title: 'Smart Contracts with Solidity: Create an Ethereum contract.
+          url: ''
+    
         - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
           date_end: ""
           date_start: "2021-04-28"
