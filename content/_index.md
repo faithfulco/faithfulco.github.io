@@ -331,7 +331,7 @@ sections:
         - certificate_url: 
           date_end: "2014-09-01"
           date_start: "2010-09-01"
-          description: "Throughout my unergraduate studies from 2010-2014, I was consistently in the Dean's Rolls of Honour for outstanding academic performance and character."
+          description: "Throughout my undergraduate studies from 2010-2014, I was consistently in the Dean's Rolls of Honour for outstanding academic performance and character."
           organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
           organization_url: 
           title: Consistent Mention and Recognition, Dean's Rolls of Honour IAUE
@@ -358,10 +358,10 @@ sections:
         - certificate_url: 
           date_end: 
           date_start: "2014-11-02"
-          description: 
-          organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+          description: Awarded the MCC Prize for Outstanding Mathematical Talent as the overall best graduating student at IAUE. 
+          organization: Monier Construction Company (MCC) Prize
           organization_url: 
-          title: Monier Costruction Company (MCC) Prize 
+          title: Monier Construction Company (MCC) Prize 
           url: 
           
         - certificate_url: 
@@ -376,7 +376,7 @@ sections:
         - certificate_url: 
           date_end: 
           date_start: "2014-11-04"
-          description: "Awarded the overall best graduating student out of over 3,000 students for 2013/2014 academic session, IAUE."
+          description: "Awarded the overall best-graduating student out of over 3,000 students for the 2013/2014 academic session, IAUE."
           organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
           organization_url: 
           title: Overall Best Graduating Student - Valedictorian (1st Class Honours)	
@@ -385,10 +385,10 @@ sections:
         - certificate_url: 
           date_end: 
           date_start: "2016-04-14"
-          description: "Outstanding Leadership Award in recognition of my Impactful and Selfless Community Development Service."
+          description: "Outstanding Leadership Award in recognition of my Impactful and Selfless Community Development Service at Abraka, Delta State, Nigeria.."
           organization: National Youth Service Corps (NYSC)
-          organization_url: 
-          title: Best Performing Unit President, NYSC Abraka, Delta State, Nigeria. 
+          organization_url: https://portal.nysc.org.ng/nysc1/
+          title: Best Performing Unit President 
           url: 
           
         - certificate_url: 
@@ -405,7 +405,7 @@ sections:
           date_start: "2017-11-01"
           description: "Full Postgraduate Scholarship for Master of Science in Financial Mathematics at PAUSTI, Nairobi, Kenya sponsored by the African Union Commission."
           organization: African Union Commission
-          organization_url: 
+          organization_url: https://pau-au.africa/
           title: African Union Commission, Pan African University Scholarship 
           url: 
           
@@ -413,8 +413,8 @@ sections:
           date_end: "2020-09-01"
           date_start: "2019-09-01"
           description: "Full Postgraduate Scholarship for Master of Science in Financial Technology (FinTech) sponsored by the Commonwealth Scholarship Commission (CSC) in partnership with the University of Stirling, Scotland, UK."
-          organization: Commonwealth Scholarship Commision and University of Stirling, UK.
-          organization_url: 
+          organization: Commonwealth Scholarship Commission and University of Stirling, UK.
+          organization_url: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/
           title: Commonwealth Shared Scholarship  
           url: 
   
