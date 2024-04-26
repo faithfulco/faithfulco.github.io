@@ -90,6 +90,90 @@ sections:
               * Publishing in reputable journals to share insights with the broader research community.
               * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
               * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+        - title: PhD Researcher in Machine Learning
+          company: SFI Centre for Research Training in Machine Learning (ML-Labs), UCD. 
+          company_url: 'https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/'
+          company_logo: ml-labs
+          location: Dublin, Ireland
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
+              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
+              * Publishing in reputable journals to share insights with the broader research community.
+              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
     design:
       columns: '1'
   - block: experience
