@@ -116,6 +116,19 @@ sections:
               * Conducted exploratory data analysis to identify patterns, trends, and insights, generating descriptive statistics and visualizations using Excel, Python (Pandas, Matplotlib), R, Tableau, and Power BI.
               * Built predictive models using machine learning techniques in Python and R to forecast future trends.
               * Summarized findings in clear, actionable reports and presented insights to management and executives.
+        - title: Data Scientist (Remote)
+          company: Brighter Futures Initiative CIC, Scotland, UK.
+          company_url: 'https://brighterfuturesinitiative.co.uk/about-us/'
+          company_logo: brighter
+          location: Scotland, UK.
+          date_start: '2021-01-01'
+          date_end: '2021-09-01'
+          description: |2-
+              Responsibilities include:
+              * Developed and delivered online lessons on AI, Data Science and Mathematics to multi-cultural and multi-ethnic groups from Africa and other minority Ethnic Communities in Scotland following the COVID-19 pandemic.
+              * Conducted exploratory data analysis to identify patterns, trends, and insights, generating descriptive statistics and visualizations using Excel, Python (Pandas, Matplotlib), R, Tableau, and Power BI.
+              * Built predictive models using machine learning techniques in Python and R to forecast future trends.
+              * Summarized findings in clear, actionable reports and presented insights to management and executives.
     design:
       columns: '1'
   - block: experience
