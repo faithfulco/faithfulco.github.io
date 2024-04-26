@@ -248,19 +248,19 @@ sections:
               * Developing and delivering hands-on training programs in data science and artificial intelligence.
               * Offering guidance and resources on successfully obtaining scholarships and research grants.
               * Facilitating career development sessions including leadership and communication skills.
-        - title: West Scotland Regional Network Coordinator
-          company: Commonwealth Scholarship Commission in the UK.
-          company_url: 'https://www.acu.ac.uk/'
-          company_logo: csc-uk
-          location: Scotland, UK.
-          date_start: '2019-11-01'
-          date_end: '2020-09-31'
+        - title: Mentor
+          company: Knowledge and Skills Forum. 
+          company_url: 'https://www.linkedin.com/company/knowledge-forum/'
+          company_logo: 
+          location: Online
+          date_start: '2023-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
-              * Managed a cohort of 76 Commonwealth scholars and fellows from diverse international backgrounds across 5 UK universities.
-              * Cultivated a vibrant, collaborative network by facilitating regular social and professional development opportunities for scholars.
-              * Organized a series of enriching events and activities that helped the scholars make the most of their time in the UK, including cultural excursions, academic workshops, and career coaching sessions.
-              * Collaborated closely with other regional coordinators and university representatives to ensure a seamless and rewarding experience for the scholars.
+              * Providing mentorship to young scientists on academic and professional excellence.
+              * Developing and delivering hands-on training programs in data science and artificial intelligence.
+              * Offering guidance and resources on successfully obtaining scholarships and research grants.
+              * Facilitating career development sessions including leadership and communication skills.
     design:
       columns: '2'
   - block: accomplishments
