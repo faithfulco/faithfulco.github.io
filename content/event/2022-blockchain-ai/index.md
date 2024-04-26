@@ -2,7 +2,7 @@
 title: Machine Learning, Blockchain Technology and Sustainable Development in Africa
 
 event: Commonwealth Scholarship Commission
-event_url: 
+event_url: https://www.youtube.com/watch?v=99TQ1AYc49o&t=8s
 
 location: Online
 address:
@@ -44,7 +44,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=99TQ1AYc49o&t=8s'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
