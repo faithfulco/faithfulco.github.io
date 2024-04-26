@@ -86,7 +86,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Proposed a research project on leveraging Large Language Models (LLMs) to identify psychological vulnerabilities cybercriminals exploit in phishing emails.
-              * Awarded the SFI-NSF Student Mobility Research Grant worth €4,065.50 to support the research.
+              * Awarded the SFI-NSF Student Mobility Research Grant worth 4,065.50 euros to support the research.
               * Collaborated with a multidisciplinary team of experts across fields such as artificial intelligence, cybersecurity, human-computer interaction, and psychology.
               * Co-authored a research paper submitted for publication in a reputable peer-reviewed journal.
               * Presented my research findings on ransomware detection using machine learning to the lab.
