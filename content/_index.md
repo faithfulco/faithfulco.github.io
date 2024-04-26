@@ -434,7 +434,7 @@ sections:
         - certificate_url: https://www.credly.com/badges/2aa41887-469d-4a4c-b838-da330e909a84/twitter?t=s07ydq
           date_end: ''
           date_start: '2023-07-25'
-          description: 'CipherTrace’s CTCE training provides hands-on instruction in blockchain and cryptocurrency tracing. Participants develop and hone digital investigation techniques as they learn a risk-based approach to tracing the source of blockchain funds and de-anonymizing cryptocurrency transactions with cryptocurrency forensic tools. Participants learn and demonstrate how to best leverage tools and resources to reduce investigation time, improve information yield, and build an effective investigation.'
+          description: 'CipherTrace's CTCE training provides hands-on instruction in blockchain and cryptocurrency tracing. Participants develop and hone digital investigation techniques as they learn a risk-based approach to tracing the source of blockchain funds and de-anonymizing cryptocurrency transactions with cryptocurrency forensic tools. Participants learn and demonstrate how to best leverage tools and resources to reduce investigation time, improve information yield, and build an effective investigation.'
           icon: 
           organization: CipherTrace, Mastercard
           organization_url: 
