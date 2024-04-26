@@ -305,28 +305,28 @@ sections:
           date_end: ''
           date_start: '2024-04-25'
           description: 'AI scholarship worth $3,750 CAD to attend the CIFAR Deep Learning and Reinforcement Learning Summer School from July 8-17, 2024 in Toronto, Canada.'
-          icon: cifar
+          icon: 
           organization: Vector Institute in collaboration with the Canadian Institute for Advanced Research (CIFAR)
           organization_url: https://dlrl.ca/
           title: CIFAR Inclusive AI Scholarship
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2023-05-25'
+          description: 'Research grant worth €4,065.50 to conduct collaborative cutting-edge AI research at AWARE-AI Lab, Rochester Institute of Technology, USA.'
+          icon: 
+          organization: Science Foundation Ireland (SFI)
+          organization_url: https://www.sfi.ie/funding/funding-calls/us-ireland-supplemental/
+          title: SFI-NSF Student Mobility Research Grant
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-05-25'
+          description: 'Full PhD research grant to research in Machine Learning at ML-Labs, UCD.'
+          icon: 
+          organization: Science Foundation Ireland (SFI) ML-Labs.
+          organization_url: https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/
+          title: Full PhD Scholarship to Research in Machine Learning and Blockchain Technology
           url: ''
   - block: accomplishments
     content:
