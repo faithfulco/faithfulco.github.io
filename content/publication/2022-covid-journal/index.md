@@ -32,7 +32,7 @@ summary: In this paper, we investigate the SEIR epidemic model with a convex inc
 
 tags:
 - Mathematics
-- COVID19
+- COVID-19
 - Health
 featured: false
 
