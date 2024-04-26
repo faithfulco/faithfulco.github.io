@@ -1,40 +1,36 @@
 ---
-title: Securing the Weakest Link: Exploring Psychological Vulnerabilities in Phishing Emails with Large Language Models
+title: Securing the Weakest Link - Exploring Psychological Vulnerabilities in Phishing Emails with LLMs
 
-event: ISACA Conference 2024
-event_url: https://example.org
+event: ISACA Ireland Conference 2024
+event_url: https://engage.isaca.org/irelandchapter/new-page/conference-2022178
 
-location: Dublin. Ireland
+location: Dublin, Ireland
 address:
   street: The Royal Marine Hotel
   city: Dun Laoghaire
-  region: 
+  region: Dublin
   postcode: ''
   country: Ireland
 
-summary: I was invited to deliver this talk on how generative artificial intelligence and particularly large language models can leveraged in detecting the psychological vulnerabilities exploited by cybercriminals in phishing emails.'
+summary: I was invited by ISACA Ireland Chapter to deliver a talk. My talk was on how large language models can be leveraged to detect the psychological vulnerabilities in phishing emails.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-04-19T13:00:00Z'
 date_end: '2024-04-19T15:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors:
-  - admin
-tags:
-  - Machine Learning
-  - LLMs
-  - Cybersecurity
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'ISACA'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
@@ -61,4 +57,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
