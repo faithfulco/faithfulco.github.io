@@ -431,15 +431,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org/account/accomplishments/verify/CUWTLGAVL3EB
-          date_end: ''
-          date_start: '2023-10-01'
-          description: ''
-          icon: coursera
-          organization: Coursera Project Network
-          organization_url: 
-          title: 'Smart Contracts with Solidity: Create an Ethereum contract.
-          url: ''
+        - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+          date_end: ""
+          date_start: "2021-04-28"
+          description: ""
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: What is Data Science?
+          url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
     
         - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
           date_end: ""
