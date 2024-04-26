@@ -1,34 +1,23 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: My favourite Mathematics Quotes
+date: '2024-03-14'
+summary: Inspiring quotes by mathematicians.
 ---
+![jpeg](math.jped)
+🤗 My Brain is Open ~ Paul Erdos. 
 
+🤗 I like crossing the imaginary boundaries people set up between different fields - it's very refreshing ~ Maryam Mirzakhani.
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+🤗 You don't have to be a mathematician to have a feel for numbers ~ John Nash. 
 
-    
-![png](output_1_0.png)
-    
+ 🤗 The beauty of mathematics only shows itself to more patient followers ~ Maryam Mirzakhani. 
 
-```python
-print("Welcome to Academic!")
-```
+🤗 Being Head of State or of Government, if I must be one, is just a necessary tool to achieve my sole aim of bringing about a scientific technological revolution in the fatherland ~ Chike Obi. 
 
-    Welcome to Academic!
+🤗 To me, mathematics, computer science, and the arts are insanely related. They’re all creative expressions ~ Sebastian Thrun.
 
-## Organize your notebooks
+🤗 Mathematics is the most beautiful and most powerful creation of the human spirit ~ Stefan Banach. 
 
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+🤗 Mathematics is the language in which God has written the universe~ Galileo Galilei.
 
-## Import the notebooks into your site
-
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+🤗 Life is like a number line, no matter the point you’re at, there is one greater and lesser than you. Remain humble, stay positive and hope for the best ~ Faithful C. Onwuegbuche.
