@@ -33,7 +33,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: **ISACA**
+  caption: 'Image credit: **ISACA**'
   focal_point: Right
 
 links:
