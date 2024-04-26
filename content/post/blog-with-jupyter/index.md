@@ -1,5 +1,5 @@
 ---
-title: My favourite Mathematics Quotes
+title: My Favourite Mathematics Quotes
 date: '2024-03-14'
 summary: Inspiring quotes by mathematicians.
 authors:
