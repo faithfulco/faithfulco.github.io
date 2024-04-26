@@ -85,11 +85,11 @@ sections:
           date_end: '2023-11-01'
           description: |2-
               Responsibilities include:
-              * Research: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection.
-              * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
-              * Publishing in reputable journals to share insights with the broader research community.
-              * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
-              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+              * Proposed a research project on leveraging Large Language Models (LLMs) to identify psychological vulnerabilities cybercriminals exploit in phishing emails.
+              * Awarded the [SFI-NSF Student Mobility Research Grant](https://www.sfi.ie/funding/funding-calls/us-ireland-supplemental/) worth €4,065.50 to support the research.
+              * Collaborated with a multidisciplinary team of experts across fields such as artificial intelligence, cybersecurity, human-computer interaction, and psychology.
+              * Co-authored a research paper submitted for publication in a reputable peer-reviewed journal.
+              * Presented my research findings on ransomware detection using machine learning to the lab.
     design:
       columns: '1'
   - block: experience
