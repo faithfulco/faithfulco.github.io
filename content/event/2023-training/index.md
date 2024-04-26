@@ -39,7 +39,7 @@ image:
 
 links:
   - icon: twitter
-    icon_pack: fab
+    icon_pack: fab 
     name: Follow
     url: https://twitter.com/Faithful_c_o
 url_code: ''
