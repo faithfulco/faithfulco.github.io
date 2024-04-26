@@ -128,6 +128,17 @@ sections:
               * Analysed data and provided insights using analytical tools such as Python, SQL, R, Tableau and SPSS.
               * Developed business solutions for clients using advanced analytics. 
               * Tested developed software for functional and non-functional performance.
+        - title: Commonwealth Shared Scholar
+          company: Commonwealth Scholarship Commission and the University of Stirling, UK.
+          company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
+          company_logo: csc-uk
+          location: Scotland, UK.
+          date_start: '2019-09-01'
+          date_end: '2020-09-01'
+          description: |2-
+              Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
+              * Developed machine learning models for malware detection and classification.
+              * Presented research findings through poster presentations, publications and academic talks.
     design:
       columns: '1'
   - block: experience
