@@ -154,6 +154,18 @@ sections:
               * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
               * Published two research papers in reputable international journals.
               * Awarded MSc in Financial Mathematics (Research Masters).
+        - title: Data and Research Scientist
+          company: Masterpiece Digital Research Consulting, Port Harcourt, Nigeria.
+          company_url: ''
+          company_logo: 
+          location: Port Harcourt, Nigeria.
+          date_start: '2014-07-01'
+          date_end: '2017-11-01'
+          description: |2-
+              Responsibilities include (done part-time):
+              * Analysed both qualitative and quantitative data using R, Python, SPSS, MS Excel, and EViews.
+              * Organised training in data analytics, conducting tests and developing client technical reports. 
+              * Translated research findings into remarkable insights, decisions and actions.
     design:
       columns: '1'
   - block: experience
