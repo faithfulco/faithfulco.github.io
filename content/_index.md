@@ -90,6 +90,19 @@ sections:
               * Collaborated with a multidisciplinary team of experts across fields such as artificial intelligence, cybersecurity, human-computer interaction, and psychology.
               * Co-authored a research paper submitted for publication in a reputable peer-reviewed journal.
               * Presented my research findings on ransomware detection using machine learning to the lab.
+        - title: Machine Learning and Blockchain Researcher
+          company: Foundry Machine Learning and Artificial Intelligence R&D Team, Mastercard, Ireland. 
+          company_url: 'https://www.mastercard.ie/en-ie.html'
+          company_logo: mastercard
+          location: Dublin, Ireland.
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
+              Responsibilities include:
+              * Developed a novel AI system for detecting fraudulent Bitcoin transactions at scale.
+              * Submitted a patent application on Bitcoin payment transaction detection and fraud prevention technology, currently pending approval.
+              * Managed project tasks and workflows effectively within an agile framework using Jira.
+              * Facilitated transparent communication and knowledge sharing across the team through Confluence.
     design:
       columns: '1'
   - block: experience
