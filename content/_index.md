@@ -439,14 +439,14 @@ sections:
           organization_url: 
           title: Cryptocurrency Tracing Certified Examiner (CTCE)
           url: 
-        - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+        - certificate_url: https://coursera.org/share/85e4f8e50b9f276649cae9f344fc5e55
           date_end: ""
-          date_start: "2021-04-28"
+          date_start: "2023-10-28"
           description: ""
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: What is Data Science?
-          url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+          title: Prompt Engineering for ChatGPT
+          url: 
         - certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
           date_end: ""
           date_start: "2021-04-28"
