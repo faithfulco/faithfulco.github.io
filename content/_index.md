@@ -79,7 +79,7 @@ sections:
         - title: Visiting Research Scholar in Artificial Intelligence
           company: Cognitive Modelling Track, AWARE AI Lab, Rochester Institute of Technology (RIT), NY, USA. 
           company_url: 'https://www.rit.edu/nrtai/research'
-          company_logo: 
+          company_logo: aware-ai
           location: Rochester, New York, USA.
           date_start: '2023-08-01'
           date_end: '2023-11-01'
