@@ -75,7 +75,7 @@ sections:
               * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
               * Publishing in reputable journals to share insights with the broader research community.
               * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
-              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks. 
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
         - title: Visiting Research Scholar in Artificial Intelligence
           company: Cognitive Modelling Track, AWARE AI Lab, Rochester Institute of Technology (RIT), NY, USA.
           company_url: 'https://www.rit.edu/nrtai/research'
@@ -90,7 +90,7 @@ sections:
               * Collaborated with a multidisciplinary team of experts across fields such as artificial intelligence, cybersecurity, human-computer interaction, and psychology.
               * Co-authored a research paper submitted for publication in a reputable peer-reviewed journal.
               * Presented my research findings on ransomware detection using machine learning to the lab.
-         - title: Machine Learning and Blockchain Researcher
+        - title: Machine Learning and Blockchain Researcher
           company: Foundry Machine Learning and Artificial Intelligence R&D Team, Mastercard, Ireland.
           company_url: 'https://www.mastercard.ie/en-ie.html'
           company_logo: mastercard
@@ -103,7 +103,7 @@ sections:
               * Submitted a patent application on Bitcoin payment transaction detection and fraud prevention technology, currently pending approval.
               * Managed project tasks and workflows effectively within an agile framework using Jira.
               * Facilitated transparent communication and knowledge sharing across the team through Confluence.
-         - title: Data Scientist (Remote)
+        - title: Data Scientist (Remote)
           company: Brighter Futures Initiative CIC, Scotland, UK.
           company_url: 'https://brighterfuturesinitiative.co.uk/about-us/'
           company_logo: brighter
@@ -116,7 +116,7 @@ sections:
               * Conducted exploratory data analysis to identify patterns, trends, and insights, generating descriptive statistics and visualizations using Excel, Python (Pandas, Matplotlib), R, Tableau, and Power BI.
               * Built predictive models using machine learning techniques in Python and R to forecast future trends.
               * Summarized findings in clear, actionable reports and presented insights to management and executives.
-         - title: Business Developer (Remote)
+        - title: Business Developer (Remote)
           company: Saipal UK LTD, Edinburgh, Scotland, UK.
           company_url: ''
           company_logo: brighter
