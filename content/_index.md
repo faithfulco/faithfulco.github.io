@@ -301,14 +301,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          description: 'AI scholarship worth $3,750 CAD to attend the CIFAR Deep Learning and Reinforcement Learning Summer School from July 8-17, 2024 in Toronto, Canada.'
+          icon: 
+          organization: Vector Institute in collaboration with the Canadian Institute for Advanced Research (CIFAR)
+          organization_url: https://dlrl.ca/
+          title: CIFAR Inclusive AI Scholarship
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
