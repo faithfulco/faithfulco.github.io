@@ -139,6 +139,21 @@ sections:
               Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
               * Developed machine learning models for malware detection and classification.
               * Presented research findings through poster presentations, publications and academic talks.
+              * Awarded MSc in Financial Technology (FinTech) with Distinction.
+        - title: African Union Commission Scholar
+          company: African Union Commission, Pan African University.
+          company_url: 'https://pau-au.africa/'
+          company_logo: pau
+          location: Nairobi, Kenya.
+          date_start: '2017-11-01'
+          date_end: '2019-11-01'
+          description: |2-
+              Research Area(s): Quantitative Risk Analytics, Big Data Analytics, Machine Learning, Financial Modelling.
+              * Developed a novel Value-at-Risk Measurement Incorporating Sentiments from Financial Tweets for Risk Analysis of Nigerian Banks.
+              * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
+              * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
+              * Published two research papers in reputable international journals.
+              * Awarded MSc in Financial Mathematics (Research Masters).
     design:
       columns: '1'
   - block: experience
