@@ -303,9 +303,9 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-04-25'
           description: 'AI scholarship worth $3,750 CAD to attend the CIFAR Deep Learning and Reinforcement Learning Summer School from July 8-17, 2024 in Toronto, Canada.'
-          icon: 
+          icon: cifar
           organization: Vector Institute in collaboration with the Canadian Institute for Advanced Research (CIFAR)
           organization_url: https://dlrl.ca/
           title: CIFAR Inclusive AI Scholarship
