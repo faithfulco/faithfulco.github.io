@@ -75,7 +75,7 @@ sections:
               * Designing and implementing novel machine learning algorithms capable of rapidly identifying and mitigating emerging and evolving ransomware attacks.
               * Publishing in reputable journals to share insights with the broader research community.
               * Presenting the research findings at top-tier machine learning and cybersecurity conferences.
-              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks.
+              * Collaborating with industry partners to transfer the developed technology into practical security solutions that protect end-users from ransomware attacks. 
         - title: Visiting Research Scholar in Artificial Intelligence
           company: Cognitive Modelling Track, AWARE AI Lab, Rochester Institute of Technology (RIT), NY, USA.
           company_url: 'https://www.rit.edu/nrtai/research'
