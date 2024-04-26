@@ -272,6 +272,22 @@ sections:
               Responsibilities include:
               * Represented the interests and perspectives of Mathematics PhD and MSc scholars at high-level meetings with the African Union Commission and PAUSTI directorate.
               * Created an effective collaborative environment that fostered meaningful connections and knowledge-sharing between scholars, industry partners, and academic institutions.
+        - title: President
+          company: Charity Community Development Service (CDS) Unit, NYSC, Delta State, Nigeria.
+          company_url: 'https://portal.nysc.org.ng/nysc1/home'
+          company_logo: nysc
+          location: Delta State, Nigeria.
+          date_start: '2015-07-01'
+          date_end: '2016-04-01'
+          description: |2-
+              Responsibilities include:
+              * Led a team of over 40 fellow NYSC members from diverse ethnic and educational backgrounds.
+              * Demonstrated strong interpersonal skills and fostered a collaborative, team-oriented spirit.
+              * Organized and executed numerous impactful community initiatives, including:
+                * Medical outreach programs to provide free healthcare services.
+                * Visits and donations to local orphanages.
+                * Awareness campaigns on important social and health issues.
+              * Awarded the Best Performing Unit NYSC President, Abraka, Delta State.
     design:
       columns: '2'
   - block: accomplishments
