@@ -257,10 +257,10 @@ sections:
           date_end: '2020-09-01'
           description: |2-
               Responsibilities include:
-              * Providing mentorship to young scientists on academic and professional excellence.
-              * Developing and delivering hands-on training programs in data science and artificial intelligence.
-              * Offering guidance and resources on successfully obtaining scholarships and research grants.
-              * Facilitating career development sessions including leadership and communication skills.
+              * Managed a cohort of 76 Commonwealth scholars and fellows from diverse international backgrounds across 5 UK universities.
+              * Cultivated a vibrant, collaborative network by facilitating regular social and professional development opportunities for scholars.
+              * Organised a series of enriching events and activities that helped the scholars make the most of their time in the UK, including cultural excursions, academic workshops, and career coaching sessions.
+              * Collaborated closely with other regional coordinators and university representatives to ensure a seamless and rewarding experience for the scholars.
     design:
       columns: '2'
   - block: accomplishments
