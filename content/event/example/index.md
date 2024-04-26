@@ -34,7 +34,7 @@ tags:
 featured: false
 
 image:
-  caption: ''
+  caption: 'ISACA'
   focal_point: Right
 
 links:
