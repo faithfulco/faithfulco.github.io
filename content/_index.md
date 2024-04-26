@@ -104,12 +104,12 @@ sections:
               * Managed project tasks and workflows effectively within an agile framework using Jira.
               * Facilitated transparent communication and knowledge sharing across the team through Confluence.
         - title: Data Scientist (Remote)
-          company: Foundry Machine Learning and Artificial Intelligence R&D Team, Mastercard, Ireland. 
-          company_url: 'https://www.mastercard.ie/en-ie.html'
-          company_logo: mastercard
-          location: Dublin, Ireland.
-          date_start: '2023-05-01'
-          date_end: '2023-08-31'
+          company: Brighter Futures Initiative CIC, Scotland, UK.
+          company_url: 'https://brighterfuturesinitiative.co.uk/about-us/'
+          company_logo: 
+          location: Scotland, UK.
+          date_start: '2021-01-01'
+          date_end: '2021-09-01'
           description: |2-
               Responsibilities include:
               * Developed a novel AI system for detecting fraudulent Bitcoin transactions at scale.
