@@ -3,7 +3,17 @@ title: My favourite Mathematics Quotes
 date: '2024-03-14'
 summary: Inspiring quotes by mathematicians.
 ---
-![jpeg](math.jped)
+authors:
+  - admin
+
+tags:
+  - Mathematics
+
+categories:
+  - Blog
+  - Inspiration
+# ![jpeg](math.jpeg)
+
 🤗 My Brain is Open ~ Paul Erdos. 
 
 🤗 I like crossing the imaginary boundaries people set up between different fields - it's very refreshing ~ Maryam Mirzakhani.
