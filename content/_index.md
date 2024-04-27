@@ -573,10 +573,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Blockchain Technology
+          tag: Blockchain Technology
+        - name: Cybersecurity
+          tag: Cybersecurity
+        - name: FinTech
+          tag: FinTech
         - name: Other
-          tag: Demo
+          tag: Education
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
