@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The research will focus on creating LLM-powered tools for automating repetitive tasks, generating actionable threat intelligence, and providing contextual recommendations to analysts. 
