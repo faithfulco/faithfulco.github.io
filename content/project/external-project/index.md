@@ -1,14 +1,19 @@
 ---
 title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Machine Learning Techniques for Adaptive Ransomware Intrusion Detection
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Ransomware
+  - Malware
+  - Machine Learning
+  - Cybersecurity
+  - Finance
+  - FinTech
+date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: [Source: Dribbble](https://dribbble.com/shots/3876457-Ransomware-and-digital-safety#)
   focal_point: Smart
 ---
