@@ -575,8 +575,8 @@ sections:
           tag: '*'
         - name: Machine Learning
           tag: Machine Learning
-        - name: Blockchain Technology
-          tag: Blockchain Technology
+        - name: Blockchain
+          tag: Blockchain
         - name: Cybersecurity
           tag: Cybersecurity
         - name: FinTech
