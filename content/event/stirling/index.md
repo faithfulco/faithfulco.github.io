@@ -31,7 +31,7 @@ tags:
 - Blockchain
 - FinTech
 - Machine Learning
-- Cyber Security
+- Cybersecurity
 - Financial Inclusion
 
 categories:
