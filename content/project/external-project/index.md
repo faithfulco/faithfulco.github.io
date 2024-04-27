@@ -14,6 +14,6 @@ date: "2021-09-27T00:00:00Z"
 external_link: https://www.ml-labs.ie/cohort_3/faithful-onwuegbuche/
 
 image:
-  caption: [Source - Dribbble](https://dribbble.com/shots/3876457-Ransomware-and-digital-safety#)
+  caption: Ransomware
   focal_point: Smart
 ---
