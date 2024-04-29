@@ -128,27 +128,27 @@ skills:
       - name: Cuckoo Sandbox
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
       - name: Honeypots
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
       - name: IDA Pro
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
       - name: PEStudio
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
       - name: VirusTotal
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
 
 # Social/Academic Networking
