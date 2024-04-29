@@ -89,22 +89,32 @@ skills:
         percent: 70
         icon: cloud
         icon_pack: fas
-  - name: Technical
+  - name: Data Analytics
     items:
-      - name: Python
+      - name: SPSS
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: analytics
+        icon_pack: fas
+      - name: Tableau
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: MSExcel
         description: ''
-        percent: 70
-        icon: database
+        percent: 80
+        icon: analytics
+        icon_pack: fas
+      - name: SAS
+        description: ''
+        percent: 80
+        icon: analytics
+        icon_pack: fas
+      - name: EViews
+        description: ''
+        percent: 80
+        icon: analytics
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
