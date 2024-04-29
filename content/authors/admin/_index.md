@@ -123,7 +123,7 @@ skills:
       - name: Malware Analysis
         description: ''
         percent: 70
-        icon: shield-check
+        icon: user-shield
         icon_pack: fas
       - name: Cuckoo Sandbox
         description: ''
