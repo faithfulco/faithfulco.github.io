@@ -52,22 +52,42 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming
     items:
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        percent: 80
+        icon: 'r-project'
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 70
         icon: database
+        icon_pack: fas
+      - name: HTML
+        description: ''
+        percent: 70
+        icon: html5
+        icon_pack: fab
+      - name: CSS
+        description: ''
+        percent: 70
+        icon: css3
+        icon_pack: fab
+      - name: JavaScript
+        description: ''
+        percent: 60
+        icon: js
+        icon_pack: fab
+      - name: GCP
+        description: ''
+        percent: 70
+        icon: cloud
         icon_pack: fas
   - name: Technical
     items:
