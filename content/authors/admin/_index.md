@@ -94,7 +94,7 @@ skills:
       - name: SPSS
         description: ''
         percent: 80
-        icon: analytics
+        icon: chart-line
         icon_pack: fas
       - name: Tableau
         description: ''
@@ -104,36 +104,51 @@ skills:
       - name: MSExcel
         description: ''
         percent: 80
-        icon: analytics
+        icon: chart-line
         icon_pack: fas
       - name: SAS
         description: ''
         percent: 80
-        icon: analytics
+        icon: chart-line
         icon_pack: fas
       - name: EViews
         description: ''
         percent: 80
-        icon: analytics
+        icon: chart-line
         icon_pack: fas
-  - name: Hobbies
+  - name: Cybersecurity
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Malware Analysis
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: shield-check
         icon_pack: fas
-      - name: Cats
+      - name: Cuckoo Sandbox
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: shield-check
         icon_pack: fas
-      - name: Photography
+      - name: Honeypots
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: shield-check
+        icon_pack: fas
+      - name: IDA Pro
+        description: ''
+        percent: 70
+        icon: shield-check
+        icon_pack: fas
+      - name: PEStudio
+        description: ''
+        percent: 70
+        icon: shield-check
+        icon_pack: fas
+      - name: VirusTotal
+        description: ''
+        percent: 70
+        icon: shield-check
         icon_pack: fas
 
 # Social/Academic Networking
