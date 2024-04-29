@@ -123,17 +123,17 @@ skills:
       - name: Malware Analysis
         description: ''
         percent: 70
-        icon: user-shield
+        icon: bug
         icon_pack: fas
       - name: Cuckoo Sandbox
         description: ''
         percent: 70
-        icon: user-shield
+        icon: file-contract
         icon_pack: fas
       - name: Honeypots
         description: ''
         percent: 70
-        icon: user-shield
+        icon: mask
         icon_pack: fas
       - name: IDA Pro
         description: ''
@@ -148,7 +148,7 @@ skills:
       - name: VirusTotal
         description: ''
         percent: 70
-        icon: user-shield
+        icon: user-secret
         icon_pack: fas
 
 # Social/Academic Networking
